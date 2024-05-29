@@ -1,14 +1,14 @@
 hubpackage: "1.4"
 name: CS0615146
 programs:
-  sas/CS0615146.sas:
+  CS0615146.sas:
     label: Test CS0615146.sas
     categories:
     - SAS Language Example
     description: |
       Simulate Git execution of CS0615146.sas.
     type: standard
-    programFile: sas/CS0615146.sas
+    programFile: CS0615146.sas
     results:
       _webout:
         resultType: stream
